@@ -1,0 +1,28 @@
+background:
+  top: "#8E7CC3"
+  bottom: "#211c26"
+accent: "#4CCACB"
+foreground: "#FFFFFF"
+background_image:
+  path: custom/nge_blue_clouds.jpg
+  opacity: 25
+details: darker
+terminal_colors:
+  normal:
+    black: "#616161"
+    red: "#BA4030"
+    green: "#12ff3d"
+    yellow: "#dcf000"
+    blue: "#00e1ff"
+    magenta: "#FF8FFD"
+    cyan: "#99e1f0"
+    white: "#F1F1F1"
+  bright:
+    black: "#8E8E8E"
+    red: "#FFC4BD"
+    green: "#D6FCB9"
+    yellow: "#FEFDD5"
+    blue: "#C1E3FE"
+    magenta: "#FFB1FE"
+    cyan: "#E5E6FE"
+    white: "#FEFFFF"
