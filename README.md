@@ -49,11 +49,11 @@ And then we can paste this in to have the update script run every morning at 7 a
  0 7 * * * /bin/zsh /path/to/your/parent/directory/with/upgrade_git_repos.sh
 ```
 
-> 0 is the minute
-> 7 is the hour (in 24-hour context)
-> the three `* * *`'s have the job run every day, of every month
-> the `/bin/zsh` specifies this running in the zsh shell
-> the `/path/to/your/parent/directory/with/upgrade_git_repos.sh` is the full path to the script
+- 0 is the minute
+- 7 is the hour (in 24-hour context)
+- the three `* * *`'s have the job run every day, of every month
+- the `/bin/zsh` specifies this running in the zsh shell
+- the `/path/to/your/parent/directory/with/upgrade_git_repos.sh` is the full path to the script
 
 ## Zshrc
 
