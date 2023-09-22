@@ -27,6 +27,14 @@ cp themes ~/.warp
 
 and then, you can use `Cmd + ,` to open up Warp's settings and see the custom themes under `Appearance`.
 
+Beyond this I have a few extra settings configured under `Appearance`:
+- Window Opacity: 75
+- Window Blur Radius: 30
+- Compact mode: enabled
+- Font: Hack
+- Font size: 15
+- Line height: 1.75
+
 ## Utils
 
 ### update git repos
