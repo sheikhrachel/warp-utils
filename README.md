@@ -2,6 +2,8 @@
 
 warp-utils is a catch-all for utils I use with my [Warp](https://www.warp.dev/) terminal
 
+![Example Terminal Screenshot](warp-example.png)
+
 ## Current State
 
 - [themes] - custom warp terminal themes
