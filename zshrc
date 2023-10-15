@@ -20,7 +20,7 @@ alias czsh="cat ~/.zshrc"
 alias gp="git push"
 alias gam="git commit -am"
 alias gpu="git pull"
-alias gpuf=“git pull —ff-only” 
+alias gpuf=“git pull —ff-only”
 alias grhd="git reset --hard HEAD"
 alias gs="git switch"
 
@@ -30,4 +30,3 @@ alias c="clear"
 alias lsa="ls -a"
 alias tch="touch"
 alias br="brew"
-

@@ -74,4 +74,3 @@ This file is a one-to-one drop in for your `~/.zshrc` file, with a dependency on
 ## License
 
 MIT
-

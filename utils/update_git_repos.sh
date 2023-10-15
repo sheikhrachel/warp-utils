@@ -34,7 +34,7 @@ for dir in */; do
       cd "$orig_dir" > /dev/null 2>&1
     fi
   ) &
-  
+
   # Store the PID of the background job
   pids+=($!)
 done
@@ -43,4 +43,3 @@ done
 for pid in "${pids[@]}"; do
   wait "$pid"
 done
-
