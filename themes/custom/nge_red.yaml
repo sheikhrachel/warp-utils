@@ -1,0 +1,28 @@
+background:
+  top: '#8E7CC3'
+  bottom: '#211c26'
+accent: '#4CCACB'
+foreground: '#FFFFFF'
+background_image:
+  path: custom/nge_red.jpg
+  opacity: 25
+details: darker
+terminal_colors:
+  normal:
+    black: '#616161'
+    red: '#e62f17'
+    green: '#12ff3d'
+    yellow: '#dcf000'
+    blue: '#2bffbc'
+    magenta: '#ff66fc'
+    cyan: '#00ffff'
+    white: '#F1F1F1'
+  bright:
+    black: '#8E8E8E'
+    red: '#FFC4BD'
+    green: '#D6FCB9'
+    yellow: '#FEFDD5'
+    blue: '#40aaff'
+    magenta: '#FFB1FE'
+    cyan: '#E5E6FE'
+    white: '#FEFFFF'
