@@ -22,7 +22,7 @@ mkdir -p ~/.warp
 and copy this `themes/` folder over to it:
 
 ```zsh
-cp themes ~/.warp
+cp -r themes ~/.warp
 ```
 
 and then, you can use `Cmd + ,` to open up Warp's settings and see the custom themes under `Appearance`.
